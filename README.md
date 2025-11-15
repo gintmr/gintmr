@@ -82,4 +82,4 @@ Source repository: <https://github.com/gintmr/gintmr>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20everyone's%20program%20is%20bug-free&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>
 
-<a href='https://mapmyvisitors.com/web/1c0o1'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=000000&w=a&t=tt&d=seTzWWy_Qi-KNrnf8RynPWqdumi3gcUIpwS4LTUl1Yk&co=ffffff&ct=ff0000'/></a>
+<a href='https://mapmyvisitors.com/web/1c0o1'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=000000&w=800&t=tt&d=seTzWWy_Qi-KNrnf8RynPWqdumi3gcUIpwS4LTUl1Yk&co=ffffff&ct=ff0000'/></a>
